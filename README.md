@@ -24,7 +24,7 @@ A real-time multi-user chatroom built with **PHP**, **MySQL**, **HTML/CSS**, and
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-user-chat.git
+git clone https://github.com/Mahesh1954/multi-user-chat.git
 cd multi-user-chat
 ```
 
@@ -72,7 +72,7 @@ Access via:
 ## Author
 
 **Mahesh**  
-29-year-old developer, passionate about building real-time applications, robotics, and tech projects.
+20-year-old developer, passionate about building real-time applications, robotics, and tech projects.
 
 ---
 
@@ -87,4 +87,4 @@ This project is licensed for personal or educational use only. You may not repro
 
 Have suggestions or questions? Feel free to reach out at:
 
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [https://github.com/Mahesh1954](https://github.com/Mahesh1954)
